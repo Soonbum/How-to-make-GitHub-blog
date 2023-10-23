@@ -27,3 +27,16 @@
   - 다운로드 받은 .md 파일명을 변경합니다. (예시: "2023-10-23-second.md")
 * images 업로드 방법
   - images 폴더 만들어서 이미지 업로드
+
+## [EP01. 개발환경 설치하기](https://www.youtube.com/watch?v=--MMmHbSH9k)
+
+* GitHub Desktop
+  - 리포지토리의 Code 버튼 누르면 Open with GitHub Desktop을 선택합니다.
+  - 로그인하고 리포지토리에서 내 블로그 저장소를 선택하고 Clone을 해서 로컬 저장소에 디렉토리를 만듭니다.
+  - For my own purposes를 선택하고 Configure를 누릅니다.
+* Typora (MD 편집기)
+* Visual Studio Code
+
+## [EP02. 이미지 매우 간단하게 추가하기](https://www.youtube.com/watch?v=1UEOWcKcVdk)
+
+...
