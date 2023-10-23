@@ -1,5 +1,7 @@
 # 깃헙 블로그 만드는 방법
 
+## 블로그 구축하기
+
 [참조](https://www.youtube.com/watch?v=ACzFIAOsfpM)
 
 1. 마음에 드는 [테마](https://github.com/topics/jekyll-theme)를 선택합니다.
